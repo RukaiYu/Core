@@ -3,8 +3,6 @@
 [![Join the chat at https://gitter.im/TangramDev/Lobby](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/TangramDev/Lobby)
 [![forum](https://img.shields.io/badge/forum-welcome-orange.svg)](https://www.tangramteam.com/forum)
 
-![Logo](Assets/Logo.png)
-
 > :sunny: Tangram is preparing, please wait.
 
 ## Contents
