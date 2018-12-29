@@ -1,0 +1,13 @@
+; Tangram.def : Declares the module parameters.
+
+LIBRARY      "Tangram.DLL"
+
+EXPORTS
+	DllCanUnloadNow					PRIVATE
+	DllGetClassObject				PRIVATE
+	DllRegisterServer				PRIVATE
+	DllUnregisterServer				PRIVATE
+	ConnectTangramDoc				PRIVATE
+	ConnectTangramDocTemplate		PRIVATE
+	GetTangram						PRIVATE
+	GetChromeProcessProxy			PRIVATE
